@@ -1,0 +1,714 @@
+{
+    "pageInfo": {
+        "page": 0,
+        "numPages": 1,
+        "pageSize": 100,
+        "numEntries": 20
+    },
+    "content": [
+        {
+            "name": "Arsenal",
+            "club": {
+                "name": "Arsenal",
+                "shortName": "Arsenal",
+                "abbr": "ARS",
+                "id": 1.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Emirates Stadium",
+                    "city": "London",
+                    "capacity": 60272.0,
+                    "location": {
+                        "latitude": 51.5548,
+                        "longitude": -0.108533
+                    },
+                    "source": "OPTA",
+                    "id": 52.0
+                }
+            ],
+            "shortName": "Arsenal",
+            "id": 1.0,
+            "altIds": {
+                "opta": "t3"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/afccommunity?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "http://player.arsenal.com/matches/first/latest",
+                "club_highlights_internal_description": "Arsenal Player",
+                "communities_facebook": "https://www.facebook.com/ArsenalintheCommunity/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_instagram": "https://www.instagram.com/arsenal_in_the_community/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "https://www.arsenal.com/community?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Aston Villa",
+            "club": {
+                "name": "Aston Villa",
+                "shortName": "Aston Villa",
+                "abbr": "AVL",
+                "id": 2.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Villa Park",
+                    "city": "Birmingham",
+                    "capacity": 42682.0,
+                    "location": {
+                        "latitude": 52.5085,
+                        "longitude": -1.88495
+                    },
+                    "source": "OPTA",
+                    "id": 43.0
+                }
+            ],
+            "shortName": "Aston Villa",
+            "id": 2.0,
+            "altIds": {
+                "opta": "t7"
+            },
+            "metadata": {
+                "communities_instagram": "https://www.instagram.com/avfcfoundation/?hl\u003den?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_twitter": "https://twitter.com/avfcfoundation?lang\u003den?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_facebook": "https://www.facebook.com/AVFCFoundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "https://www.avfc.co.uk/foundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Bournemouth",
+            "club": {
+                "name": "Bournemouth",
+                "shortName": "Bournemouth",
+                "abbr": "BOU",
+                "id": 127.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Vitality Stadium",
+                    "city": "Bournemouth",
+                    "capacity": 11464.0,
+                    "location": {
+                        "latitude": 50.7349,
+                        "longitude": -1.83899
+                    },
+                    "source": "OPTA",
+                    "id": 914.0
+                }
+            ],
+            "shortName": "Bournemouth",
+            "id": 127.0,
+            "altIds": {
+                "opta": "t91"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/afcbcommunity?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "https://www.afcb.co.uk/videos/latest-videos/",
+                "club_highlights_internal_description": "afcbTV",
+                "communities_facebook": "https://www.facebook.com/AFCBCST?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_instagram": "https://www.instagram.com/afcbcst/?hl\u003den?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "https://www.afcb.co.uk/community-sports-trust/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Brentford",
+            "club": {
+                "name": "Brentford",
+                "shortName": "Brentford",
+                "abbr": "BRE",
+                "id": 130.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Gtech Community Stadium",
+                    "city": "Brentford",
+                    "capacity": 17250.0,
+                    "source": "OPTA",
+                    "id": 4003.0
+                }
+            ],
+            "shortName": "Brentford",
+            "id": 130.0,
+            "altIds": {
+                "opta": "t94"
+            },
+            "metadata": {
+                "communities_instagram": "https://www.instagram.com/brentfordfccst/?hl\u003den",
+                "communities_twitter": "https://twitter.com/BrentfordFCCST",
+                "communities_URL": "https://www.brentfordfccst.com/",
+                "communities_youtube": "https://www.youtube.com/c/brentfordfccommunitysportstrust"
+            }
+        },
+        {
+            "name": "Brighton \u0026 Hove Albion",
+            "club": {
+                "name": "Brighton and Hove Albion",
+                "shortName": "Brighton",
+                "abbr": "BHA",
+                "id": 131.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "American Express Stadium",
+                    "city": "Falmer",
+                    "capacity": 30750.0,
+                    "location": {
+                        "latitude": 50.8606,
+                        "longitude": -0.082237
+                    },
+                    "source": "OPTA",
+                    "id": 7306.0
+                }
+            ],
+            "shortName": "Brighton",
+            "id": 131.0,
+            "altIds": {
+                "opta": "t36"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/BHAFCFoundation",
+                "club_highlights_internal_url": "https://www.brightonandhovealbion.com/my-albion-tv/videos/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_description": "MyAlbion TV",
+                "communities_facebook": "https://www.facebook.com/bhafcfoundation",
+                "communities_youtube": "https://www.youtube.com/@BHAFCFoundation",
+                "club_highlights_youtube_url": "https://www.youtube.com/user/officialbhafc",
+                "communities_instagram": "https://www.instagram.com/bhafcfoundation",
+                "communities_URL": "https://bhafcfoundation.org.uk/"
+            }
+        },
+        {
+            "name": "Chelsea",
+            "club": {
+                "name": "Chelsea",
+                "shortName": "Chelsea",
+                "abbr": "CHE",
+                "id": 4.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Stamford Bridge",
+                    "city": "London",
+                    "capacity": 41798.0,
+                    "location": {
+                        "latitude": 51.4816,
+                        "longitude": -0.191016
+                    },
+                    "source": "OPTA",
+                    "id": 30.0
+                }
+            ],
+            "shortName": "Chelsea",
+            "id": 4.0,
+            "altIds": {
+                "opta": "t8"
+            },
+            "metadata": {
+                "communities_instagram": "https://www.instagram.com/chelseafcfoundation/",
+                "communities_twitter": "https://twitter.com/CFCFoundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "http://www.chelseafc.com/videos/chelsea-tv-on-demand/matches.html",
+                "club_highlights_internal_description": "Chelsea TV",
+                "communities_URL": "https://www.chelseafc.com/en/chelsea-foundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Crystal Palace",
+            "club": {
+                "name": "Crystal Palace",
+                "shortName": "Crystal Palace",
+                "abbr": "CRY",
+                "id": 6.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Selhurst Park",
+                    "city": "London",
+                    "capacity": 25073.0,
+                    "location": {
+                        "latitude": 51.3979,
+                        "longitude": -0.085923
+                    },
+                    "source": "OPTA",
+                    "id": 45.0
+                }
+            ],
+            "shortName": "Crystal Palace",
+            "id": 6.0,
+            "altIds": {
+                "opta": "t31"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/PalaceForLife?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "https://eagles.cpfc.co.uk/?_ga\u003d2.268285382.99192438.1519225342-230967362.1519119657",
+                "club_highlights_internal_description": "Palace TV (free)",
+                "communities_facebook": "https://www.facebook.com/palaceforlife/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_youtube": "https://www.youtube.com/channel/UCbGuvR1kko9eBUvzXD_k8iA?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_instagram": "https://www.instagram.com/palaceforlife/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "https://www.palaceforlife.org?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Everton",
+            "club": {
+                "name": "Everton",
+                "shortName": "Everton",
+                "abbr": "EVE",
+                "id": 7.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Goodison Park",
+                    "city": "Liverpool",
+                    "capacity": 39571.0,
+                    "location": {
+                        "latitude": 53.4387,
+                        "longitude": -2.96639
+                    },
+                    "source": "OPTA",
+                    "id": 31.0
+                }
+            ],
+            "shortName": "Everton",
+            "id": 7.0,
+            "altIds": {
+                "opta": "t11"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/eitc?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "http://www.evertonfc.com/evertontv",
+                "club_highlights_internal_description": "Everton TV",
+                "communities_facebook": "https://www.facebook.com/evertoninthecommunity/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "http://www.evertonfc.com/community?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Fulham",
+            "club": {
+                "name": "Fulham",
+                "shortName": "Fulham",
+                "abbr": "FUL",
+                "id": 34.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Craven Cottage",
+                    "city": "London",
+                    "capacity": 25700.0,
+                    "location": {
+                        "latitude": 51.4745,
+                        "longitude": -0.220993
+                    },
+                    "source": "OPTA",
+                    "id": 16.0
+                }
+            ],
+            "shortName": "Fulham",
+            "id": 34.0,
+            "altIds": {
+                "opta": "t54"
+            },
+            "metadata": {
+                "communities_instagram": "https://www.instagram.com/fulhamfcfound/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_twitter": "https://twitter.com/FulhamFCFound?lang\u003den?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "http://www.fulhamfc.com/media-centre/90-minutes",
+                "communities_facebook": "https://www.facebook.com/FFCFoundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "http://www.fulhamfc.com/fulham-fc-foundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Ipswich Town",
+            "club": {
+                "name": "Ipswich Town",
+                "shortName": "Ipswich",
+                "abbr": "IPS",
+                "id": 8.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Portman Road",
+                    "city": "Ipswich",
+                    "capacity": 30300.0,
+                    "location": {
+                        "latitude": 52.0542,
+                        "longitude": 1.14471
+                    },
+                    "source": "OPTA",
+                    "id": 66.0
+                }
+            ],
+            "shortName": "Ipswich",
+            "id": 8.0,
+            "altIds": {
+                "opta": "t40"
+            },
+            "metadata": {
+                "communities_instagram": "https://www.instagram.com/itfcfoundation/",
+                "communities_twitter": "https://x.com/ITFCFoundation",
+                "communities_facebook": "https://www.facebook.com/IpswichTownFoundation",
+                "communities_URL": "https://www.itfcfoundation.co.uk/"
+            }
+        },
+        {
+            "name": "Leicester City",
+            "club": {
+                "name": "Leicester City",
+                "shortName": "Leicester",
+                "abbr": "LEI",
+                "id": 26.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "King Power Stadium",
+                    "city": "Leicester",
+                    "capacity": 32312.0,
+                    "location": {
+                        "latitude": 52.62,
+                        "longitude": -1.1415
+                    },
+                    "source": "OPTA",
+                    "id": 49.0
+                }
+            ],
+            "shortName": "Leicester",
+            "id": 26.0,
+            "altIds": {
+                "opta": "t13"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/lcfc_community?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "https://www.lcfc.com/tv",
+                "club_highlights_internal_description": "Foxes Player",
+                "communities_facebook": "https://www.facebook.com/LCFCCommunity?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_instagram": "https://www.instagram.com/lcfc_community?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "https://www.lcfc.com/community?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Liverpool",
+            "club": {
+                "name": "Liverpool",
+                "shortName": "Liverpool",
+                "abbr": "LIV",
+                "id": 10.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Anfield",
+                    "city": "Liverpool",
+                    "capacity": 61276.0,
+                    "location": {
+                        "latitude": 53.4313,
+                        "longitude": -2.96158
+                    },
+                    "source": "OPTA",
+                    "id": 7305.0
+                }
+            ],
+            "shortName": "Liverpool",
+            "id": 10.0,
+            "altIds": {
+                "opta": "t14"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/LFCFoundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "http://www.liverpoolfc.com/video",
+                "club_highlights_internal_description": "LFCTV GO",
+                "communities_facebook": "https://www.facebook.com/TheLFCFoundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_instagram": "https://www.instagram.com/thelfcfoundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "http://foundation.liverpoolfc.com/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Manchester City",
+            "club": {
+                "name": "Manchester City",
+                "shortName": "Man City",
+                "abbr": "MCI",
+                "id": 11.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Etihad Stadium",
+                    "city": "Manchester",
+                    "capacity": 55000.0,
+                    "location": {
+                        "latitude": 53.4832,
+                        "longitude": -2.20042
+                    },
+                    "source": "OPTA",
+                    "id": 457.0
+                }
+            ],
+            "shortName": "Man City",
+            "id": 11.0,
+            "altIds": {
+                "opta": "t43"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/citcmancity",
+                "club_highlights_internal_url": "https://www.mancity.com/city-plus?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_description": "City+",
+                "communities_facebook": "https://www.facebook.com/citcmancity/",
+                "communities_instagram": "https://www.instagram.com/citcmancity",
+                "communities_URL": "https://www.mancity.com/community?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Manchester United",
+            "club": {
+                "name": "Manchester United",
+                "shortName": "Man Utd",
+                "abbr": "MUN",
+                "id": 12.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Old Trafford",
+                    "city": "Manchester",
+                    "capacity": 75635.0,
+                    "location": {
+                        "latitude": 53.4626,
+                        "longitude": -2.29103
+                    },
+                    "source": "OPTA",
+                    "id": 42.0
+                }
+            ],
+            "shortName": "Man Utd",
+            "id": 12.0,
+            "altIds": {
+                "opta": "t1"
+            },
+            "metadata": {
+                "club_highlights_facebook_url": "https://www.facebook.com/pg/manchesterunited/videos/?ref\u003dpage_internal",
+                "communities_twitter": "https://twitter.com/MU_Foundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "https://mutv.manutd.com/home?utm_campaign\u003dmutv\u0026utm_content\u003dwatchmutv\u0026utm_medium\u003dmenu\u0026utm_source\u003dmuwebsite",
+                "club_highlights_internal_description": "MUTV",
+                "communities_facebook": "https://www.facebook.com/manchesterunitedfoundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_youtube": "https://www.youtube.com/ManutdFoundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_instagram": "https://www.instagram.com/manchesterunitedfoundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "http://www.mufoundation.org/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Newcastle United",
+            "club": {
+                "name": "Newcastle United",
+                "shortName": "Newcastle",
+                "abbr": "NEW",
+                "id": 23.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "St. James\u0027 Park",
+                    "city": "Newcastle",
+                    "capacity": 52405.0,
+                    "location": {
+                        "latitude": 54.9752,
+                        "longitude": -1.62235
+                    },
+                    "source": "OPTA",
+                    "id": 27.0
+                }
+            ],
+            "shortName": "Newcastle",
+            "id": 23.0,
+            "altIds": {
+                "opta": "t4"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/NU_Foundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "https://www.newcastleunited.com/nufc-tv/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_description": "NUFC TV",
+                "communities_facebook": "https://www.facebook.com/NewcastleUnitedFoundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_youtube": "https://www.youtube.com/channel/UCXOqbOslPnke29Anf49l98g/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_instagram": "https://www.instagram.com/nu_foundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "http://nufoundation.org.uk/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Nottingham Forest",
+            "club": {
+                "name": "Nottingham Forest",
+                "shortName": "Nott\u0027m Forest",
+                "abbr": "NFO",
+                "id": 15.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "The City Ground",
+                    "city": "Nottingham",
+                    "capacity": 30602.0,
+                    "location": {
+                        "latitude": 52.9396,
+                        "longitude": -1.13258
+                    },
+                    "source": "OPTA",
+                    "id": 2548.0
+                }
+            ],
+            "shortName": "Nottm Forest",
+            "id": 15.0,
+            "altIds": {
+                "opta": "t17"
+            },
+            "metadata": {
+                "communities_instagram": "https://www.instagram.com/nffc_community/?hl\u003den%3Futm_source%3Dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_twitter": "https://twitter.com/NFFC_Community?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_facebook": "https://www.facebook.com/nottinghamforestcommunitytrust/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "https://nottinghamforestcommunitytrust.co.uk/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_youtube": "https://www.youtube.com/channel/UCm4zkvndyD6rFMQevkN3_9Q"
+            }
+        },
+        {
+            "name": "Southampton",
+            "club": {
+                "name": "Southampton",
+                "shortName": "Southampton",
+                "abbr": "SOU",
+                "id": 20.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "St. Mary\u0027s Stadium",
+                    "city": "Southampton",
+                    "capacity": 32505.0,
+                    "location": {
+                        "latitude": 50.9065,
+                        "longitude": -1.39082
+                    },
+                    "source": "OPTA",
+                    "id": 48.0
+                }
+            ],
+            "shortName": "Southampton",
+            "id": 20.0,
+            "altIds": {
+                "opta": "t20"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/SFC_Foundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_description": "Club Website",
+                "communities_facebook": "https://www.facebook.com/saintsfoundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_youtube": "https://www.youtube.com/channel/UCeIuFho1kvfURMpKgRU5FFw/featured?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_youtube_url": "https://www.youtube.com/user/theofficialsaints",
+                "communities_instagram": "https://www.instagram.com/saints_foundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "http://saintsfoundation.co.uk/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Tottenham Hotspur",
+            "club": {
+                "name": "Tottenham Hotspur",
+                "shortName": "Spurs",
+                "abbr": "TOT",
+                "id": 21.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Tottenham Hotspur Stadium",
+                    "city": "London",
+                    "capacity": 62850.0,
+                    "source": "OPTA",
+                    "id": 3921.0
+                }
+            ],
+            "shortName": "Spurs",
+            "id": 21.0,
+            "altIds": {
+                "opta": "t6"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/SpursFoundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "https://www.tottenhamhotspur.com/tags/spurstv/",
+                "club_highlights_internal_description": "Spurs TV",
+                "communities_URL": "https://www.tottenhamhotspur.com/the-club/foundation/about-us/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "West Ham United",
+            "club": {
+                "name": "West Ham United",
+                "shortName": "West Ham",
+                "abbr": "WHU",
+                "id": 25.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "London Stadium",
+                    "city": "London",
+                    "capacity": 62500.0,
+                    "source": "OPTA",
+                    "id": 7662.0
+                }
+            ],
+            "shortName": "West Ham",
+            "id": 25.0,
+            "altIds": {
+                "opta": "t21"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/whufoundation?lang\u003den?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "http://www.whufc.com/news/video-news",
+                "club_highlights_internal_description": "West Ham TV",
+                "communities_facebook": "https://www.facebook.com/WHUFoundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_youtube": "https://www.youtube.com/channel/UCST2blwiQ2HfnbbXtBuS-9g/featured?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_instagram": "https://www.instagram.com/whufoundation/?hl\u003den?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "http://www.whufc.com/club-foundation/about-us/welcome?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        },
+        {
+            "name": "Wolverhampton Wanderers",
+            "club": {
+                "name": "Wolverhampton Wanderers",
+                "shortName": "Wolves",
+                "abbr": "WOL",
+                "id": 38.0
+            },
+            "teamType": "FIRST",
+            "grounds": [
+                {
+                    "name": "Molineux Stadium",
+                    "city": "Wolverhampton",
+                    "capacity": 31500.0,
+                    "location": {
+                        "latitude": 52.5904,
+                        "longitude": -2.13077
+                    },
+                    "source": "OPTA",
+                    "id": 913.0
+                }
+            ],
+            "shortName": "Wolves",
+            "id": 38.0,
+            "altIds": {
+                "opta": "t39"
+            },
+            "metadata": {
+                "communities_twitter": "https://twitter.com/wwfcfoundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "club_highlights_internal_url": "www.wolves.co.uk/shop/wolvestv/",
+                "communities_facebook": "https://www.facebook.com/wwfcfoundation/?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_youtube": "https://www.youtube.com/channel/UC7Sxx69oznBNgzbCFft1INA?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_instagram": "https://www.instagram.com/wwfcfoundation/?hl\u003den?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink",
+                "communities_URL": "https://www.wolves.co.uk/foundation?utm_source\u003dpremier-league-website\u0026utm_campaign\u003dwebsite\u0026utm_medium\u003dlink"
+            }
+        }
+    ]
+}
