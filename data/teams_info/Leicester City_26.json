@@ -1,0 +1,1574 @@
+{
+    "compSeason": {
+        "label": "2024/25",
+        "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1
+        },
+        "id": 719
+    },
+    "team": {
+        "name": "Leicester City",
+        "club": {
+            "name": "Leicester City",
+            "shortName": "Leicester",
+            "abbr": "LEI",
+            "id": 26
+        },
+        "teamType": "FIRST",
+        "shortName": "Leicester",
+        "id": 26
+    },
+    "players": [
+        {
+            "playerId": 133220,
+            "info": {
+                "position": "G",
+                "shirtNum": 1,
+                "positionInfo": "Goalkeeper"
+            },
+            "nationalTeam": {
+                "isoCode": "GB-WLS",
+                "country": "Wales",
+                "demonym": "Welsh"
+            },
+            "height": 191,
+            "weight": 88,
+            "latestPosition": "GOALKEEPER",
+            "appearances": 2,
+            "cleanSheets": 0,
+            "saves": 4,
+            "goalsConceded": 6,
+            "joinDate": {
+                "millis": 1532044800000,
+                "label": "20 July 2018"
+            },
+            "birth": {
+                "date": {
+                    "millis": 740707200000,
+                    "label": "22 June 1993"
+                },
+                "country": {
+                    "isoCode": "GB-WLS",
+                    "country": "Wales",
+                    "demonym": "Welsh"
+                },
+                "place": "Wrexham"
+            },
+            "age": "31 years 233 days",
+            "name": {
+                "display": "Danny Ward",
+                "first": "Danny",
+                "last": "Ward"
+            },
+            "id": 4522
+        },
+        {
+            "playerId": 342190,
+            "info": {
+                "position": "G",
+                "shirtNum": 30,
+                "positionInfo": "Goalkeeper"
+            },
+            "nationalTeam": {
+                "isoCode": "DK",
+                "country": "Denmark"
+            },
+            "height": 187,
+            "weight": 81,
+            "latestPosition": "GOALKEEPER",
+            "appearances": 17,
+            "cleanSheets": 1,
+            "saves": 68,
+            "goalsConceded": 35,
+            "joinDate": {
+                "millis": 1689638400000,
+                "label": "18 July 2023"
+            },
+            "birth": {
+                "date": {
+                    "millis": 963273600000,
+                    "label": "11 July 2000"
+                },
+                "country": {
+                    "isoCode": "DK",
+                    "country": "Denmark"
+                },
+                "place": "Odense"
+            },
+            "age": "24 years 214 days",
+            "name": {
+                "display": "Mads Hermansen",
+                "first": "Mads",
+                "last": "Hermansen"
+            },
+            "id": 118083
+        },
+        {
+            "playerId": 323425,
+            "info": {
+                "position": "G",
+                "shirtNum": 41,
+                "positionInfo": "Goalkeeper"
+            },
+            "nationalTeam": {
+                "isoCode": "PL",
+                "country": "Poland",
+                "demonym": "Polish"
+            },
+            "height": 194,
+            "weight": 81,
+            "latestPosition": "GOALKEEPER",
+            "appearances": 6,
+            "cleanSheets": 0,
+            "saves": 17,
+            "goalsConceded": 12,
+            "joinDate": {
+                "millis": 1599177600000,
+                "label": "4 September 2020"
+            },
+            "birth": {
+                "date": {
+                    "millis": 977184000000,
+                    "label": "19 December 2000"
+                },
+                "country": {
+                    "isoCode": "PL",
+                    "country": "Poland",
+                    "demonym": "Polish"
+                }
+            },
+            "age": "24 years 53 days",
+            "name": {
+                "display": "Jakub Stolarczyk",
+                "first": "Jakub",
+                "last": "Stolarczyk"
+            },
+            "id": 25444
+        },
+        {
+            "playerId": 159737,
+            "info": {
+                "position": "D",
+                "shirtNum": 2,
+                "positionInfo": "Right Full Back"
+            },
+            "nationalTeam": {
+                "isoCode": "GB-ENG",
+                "country": "England",
+                "demonym": "English"
+            },
+            "height": 183,
+            "weight": 80,
+            "latestPosition": "DEFENDER",
+            "appearances": 23,
+            "goals": 2,
+            "assists": 1,
+            "tackles": 38,
+            "shots": 22,
+            "keyPasses": 10,
+            "cleanSheets": 1,
+            "joinDate": {
+                "millis": 1561680000000,
+                "label": "28 June 2019"
+            },
+            "birth": {
+                "date": {
+                    "millis": 888192000000,
+                    "label": "23 February 1998"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                },
+                "place": "Luton"
+            },
+            "age": "26 years 353 days",
+            "name": {
+                "display": "James Justin",
+                "first": "James",
+                "last": "Justin"
+            },
+            "id": 13515
+        },
+        {
+            "playerId": 325441,
+            "info": {
+                "position": "D",
+                "shirtNum": 3,
+                "positionInfo": "Central Defender"
+            },
+            "nationalTeam": {
+                "isoCode": "BE",
+                "country": "Belgium",
+                "demonym": "Belgian"
+            },
+            "height": 187,
+            "weight": 84,
+            "latestPosition": "DEFENDER",
+            "appearances": 21,
+            "goals": 1,
+            "assists": 0,
+            "tackles": 28,
+            "shots": 9,
+            "keyPasses": 3,
+            "cleanSheets": 1,
+            "joinDate": {
+                "millis": 1661990400000,
+                "label": "1 September 2022"
+            },
+            "birth": {
+                "date": {
+                    "millis": 891561600000,
+                    "label": "3 April 1998"
+                },
+                "country": {
+                    "isoCode": "BE",
+                    "country": "Belgium",
+                    "demonym": "Belgian"
+                },
+                "place": "Mol"
+            },
+            "age": "26 years 313 days",
+            "name": {
+                "display": "Wout Faes",
+                "first": "Wout",
+                "last": "Faes"
+            },
+            "id": 20566
+        },
+        {
+            "playerId": 340930,
+            "info": {
+                "position": "D",
+                "shirtNum": 4,
+                "positionInfo": "Centre Central Defender"
+            },
+            "nationalTeam": {
+                "isoCode": "GB-ENG",
+                "country": "England",
+                "demonym": "English"
+            },
+            "height": 185,
+            "weight": 80,
+            "latestPosition": "DEFENDER",
+            "appearances": 10,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 7,
+            "shots": 0,
+            "keyPasses": 1,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1688169600000,
+                "label": "1 July 2023"
+            },
+            "birth": {
+                "date": {
+                    "millis": 730598400000,
+                    "label": "25 February 1993"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                },
+                "place": "St Helens"
+            },
+            "age": "31 years 351 days",
+            "name": {
+                "display": "Conor Coady",
+                "first": "Conor",
+                "last": "Coady"
+            },
+            "id": 4136
+        },
+        {
+            "playerId": 337871,
+            "info": {
+                "position": "D",
+                "shirtNum": 15,
+                "positionInfo": "Centre Central Defender"
+            },
+            "nationalTeam": {
+                "isoCode": "AU",
+                "country": "Australia",
+                "demonym": "Australian"
+            },
+            "height": 200,
+            "weight": 101,
+            "latestPosition": "DEFENDER",
+            "appearances": 0,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 0,
+            "shots": 0,
+            "keyPasses": 0,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1675123200000,
+                "label": "31 January 2023"
+            },
+            "birth": {
+                "date": {
+                    "millis": 909014400000,
+                    "label": "22 October 1998"
+                },
+                "country": {
+                    "isoCode": "GB-SCT",
+                    "country": "Scotland",
+                    "demonym": "Scottish"
+                }
+            },
+            "age": "26 years 111 days",
+            "name": {
+                "display": "Harry Souttar",
+                "first": "Harry",
+                "last": "Souttar"
+            },
+            "id": 21809
+        },
+        {
+            "playerId": 129749,
+            "info": {
+                "position": "D",
+                "shirtNum": 21,
+                "positionInfo": "Right Full Back"
+            },
+            "nationalTeam": {
+                "isoCode": "PT",
+                "country": "Portugal",
+                "demonym": "Portugese"
+            },
+            "height": 175,
+            "weight": 70,
+            "latestPosition": "DEFENDER",
+            "appearances": 2,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 3,
+            "shots": 0,
+            "keyPasses": 0,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1528502400000,
+                "label": "9 June 2018"
+            },
+            "birth": {
+                "date": {
+                    "millis": 749865600000,
+                    "label": "6 October 1993"
+                },
+                "country": {
+                    "isoCode": "PT",
+                    "country": "Portugal",
+                    "demonym": "Portugese"
+                },
+                "place": "Lisbon"
+            },
+            "age": "31 years 127 days",
+            "name": {
+                "display": "Ricardo Pereira",
+                "first": "Ricardo Domingos",
+                "last": "Barbosa Pereira"
+            },
+            "id": 5343
+        },
+        {
+            "playerId": 287385,
+            "info": {
+                "position": "D",
+                "shirtNum": 23,
+                "positionInfo": "Centre Central Defender"
+            },
+            "nationalTeam": {
+                "isoCode": "DK",
+                "country": "Denmark"
+            },
+            "height": 199,
+            "weight": 94,
+            "latestPosition": "DEFENDER",
+            "appearances": 16,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 20,
+            "shots": 2,
+            "keyPasses": 2,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1628812800000,
+                "label": "13 August 2021"
+            },
+            "birth": {
+                "date": {
+                    "millis": 712800000000,
+                    "label": "3 August 1992"
+                },
+                "country": {
+                    "isoCode": "DK",
+                    "country": "Denmark"
+                },
+                "place": "Hvidovre"
+            },
+            "age": "32 years 191 days",
+            "name": {
+                "display": "Jannik Vestergaard",
+                "first": "Jannik",
+                "last": "Vestergaard"
+            },
+            "id": 20109
+        },
+        {
+            "playerId": 340927,
+            "info": {
+                "position": "M",
+                "shirtNum": 8,
+                "positionInfo": "Centre Central Midfielder"
+            },
+            "nationalTeam": {
+                "isoCode": "GB-ENG",
+                "country": "England",
+                "demonym": "English"
+            },
+            "height": 178,
+            "weight": 65,
+            "latestPosition": "MIDFIELDER",
+            "appearances": 19,
+            "goals": 0,
+            "assists": 2,
+            "tackles": 24,
+            "shots": 9,
+            "keyPasses": 15,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1688169600000,
+                "label": "1 July 2023"
+            },
+            "birth": {
+                "date": {
+                    "millis": 823219200000,
+                    "label": "2 February 1996"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                },
+                "place": "Hemel Hempstead"
+            },
+            "age": "29 years 8 days",
+            "name": {
+                "display": "Harry Winks",
+                "first": "Harry",
+                "last": "Winks"
+            },
+            "id": 7488
+        },
+        {
+            "playerId": 42220,
+            "info": {
+                "position": "M",
+                "shirtNum": 6,
+                "positionInfo": "Centre Central Midfielder"
+            },
+            "nationalTeam": {
+                "isoCode": "NG",
+                "country": "Nigeria",
+                "demonym": "Nigerian"
+            },
+            "height": 183,
+            "weight": 74,
+            "latestPosition": "MIDFIELDER",
+            "appearances": 15,
+            "goals": 0,
+            "assists": 4,
+            "tackles": 48,
+            "shots": 12,
+            "keyPasses": 9,
+            "cleanSheets": 1,
+            "joinDate": {
+                "millis": 1483401600000,
+                "label": "3 January 2017"
+            },
+            "birth": {
+                "date": {
+                    "millis": 850694400000,
+                    "label": "16 December 1996"
+                },
+                "country": {
+                    "isoCode": "NG",
+                    "country": "Nigeria",
+                    "demonym": "Nigerian"
+                },
+                "place": "Lagos"
+            },
+            "age": "28 years 56 days",
+            "name": {
+                "display": "Wilfred Ndidi",
+                "first": "Wilfred",
+                "last": "Ndidi"
+            },
+            "id": 20479
+        },
+        {
+            "playerId": 323348,
+            "info": {
+                "position": "M",
+                "shirtNum": 35,
+                "positionInfo": "Centre/Right Attacking Midfielder"
+            },
+            "nationalTeam": {
+                "isoCode": "IE",
+                "country": "Ireland",
+                "demonym": "Irish"
+            },
+            "height": 177,
+            "weight": 69,
+            "latestPosition": "MIDFIELDER",
+            "appearances": 11,
+            "goals": 0,
+            "assists": 1,
+            "tackles": 11,
+            "shots": 6,
+            "keyPasses": 5,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1638316800000,
+                "label": "1 December 2021"
+            },
+            "birth": {
+                "date": {
+                    "millis": 1006387200000,
+                    "label": "22 November 2001"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                },
+                "place": "Northampton"
+            },
+            "age": "23 years 80 days",
+            "name": {
+                "display": "Kasey McAteer",
+                "first": "Kasey",
+                "last": "McAteer"
+            },
+            "id": 51553
+        },
+        {
+            "playerId": 11259,
+            "info": {
+                "position": "F",
+                "shirtNum": 9,
+                "positionInfo": "Centre Striker"
+            },
+            "nationalTeam": {
+                "isoCode": "GB-ENG",
+                "country": "England",
+                "demonym": "English"
+            },
+            "height": 179,
+            "weight": 74,
+            "latestPosition": "FORWARD",
+            "appearances": 22,
+            "goals": 7,
+            "assists": 3,
+            "tackles": 9,
+            "shots": 40,
+            "keyPasses": 13,
+            "cleanSheets": 0,
+            "awards": {
+                "GOLDEN_BOOT": [
+                    {
+                        "date": {
+                            "year": 2020,
+                            "month": 7,
+                            "day": 27
+                        },
+                        "compSeason": {
+                            "label": "2019/20",
+                            "id": 274
+                        }
+                    }
+                ],
+                "PLAYER_OF_THE_SEASON": [
+                    {
+                        "date": {
+                            "year": 2016,
+                            "month": 5,
+                            "day": 16
+                        },
+                        "compSeason": {
+                            "label": "2015/16",
+                            "id": 42
+                        },
+                        "notes": "The forward helped fire Leicester City to their first Premier League title with a combination of 24 goals and six assists."
+                    }
+                ],
+                "GOAL_OF_THE_MONTH": [
+                    {
+                        "date": {
+                            "year": 2018,
+                            "month": 3,
+                            "day": 31
+                        },
+                        "compSeason": {
+                            "label": "2017/18",
+                            "id": 79
+                        },
+                        "notes": "Vardy scored a first-time volley in a 4-1 win at West Brom from a long pass that dropped over his head."
+                    }
+                ],
+                "CHAMPIONS": [
+                    {
+                        "date": {
+                            "year": 2016,
+                            "month": 5,
+                            "day": 16
+                        },
+                        "compSeason": {
+                            "label": "2015/16",
+                            "id": 42
+                        }
+                    }
+                ],
+                "PLAYER_OF_THE_MONTH": [
+                    {
+                        "date": {
+                            "year": 2015,
+                            "month": 10,
+                            "day": 31
+                        },
+                        "compSeason": {
+                            "label": "2015/16",
+                            "id": 42
+                        },
+                        "notes": "Jamie Vardy's first Player of the Month award came from netting five times in four appearances."
+                    },
+                    {
+                        "date": {
+                            "year": 2015,
+                            "month": 11,
+                            "day": 30
+                        },
+                        "compSeason": {
+                            "label": "2015/16",
+                            "id": 42
+                        },
+                        "notes": "Scoring against Man Utd meant the Leicester City forward set a new PL record of scoring in 11 consecutive matches."
+                    },
+                    {
+                        "date": {
+                            "year": 2019,
+                            "month": 4,
+                            "day": 30
+                        },
+                        "compSeason": {
+                            "label": "2018/19",
+                            "id": 210
+                        },
+                        "notes": "Five goals from four matches gave the Leicester forward his third Player of the Month award."
+                    },
+                    {
+                        "date": {
+                            "year": 2019,
+                            "month": 10,
+                            "day": 31
+                        },
+                        "compSeason": {
+                            "label": "2019/20",
+                            "id": 274
+                        },
+                        "notes": "Vardy claimed his fourth PL player of the month award with four goals in three appearances for Leicester."
+                    }
+                ]
+            },
+            "joinDate": {
+                "millis": 1341100800000,
+                "label": "1 July 2012"
+            },
+            "birth": {
+                "date": {
+                    "millis": 537321600000,
+                    "label": "11 January 1987"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                },
+                "place": "Sheffield"
+            },
+            "age": "38 years 30 days",
+            "name": {
+                "display": "Jamie Vardy",
+                "first": "Jamie",
+                "last": "Vardy"
+            },
+            "id": 8979
+        },
+        {
+            "playerId": 343404,
+            "info": {
+                "position": "F",
+                "shirtNum": 10,
+                "positionInfo": "Centre Striker"
+            },
+            "nationalTeam": {
+                "isoCode": "GB-ENG",
+                "country": "England",
+                "demonym": "English"
+            },
+            "height": 182,
+            "weight": 71,
+            "latestPosition": "FORWARD",
+            "appearances": 22,
+            "goals": 3,
+            "assists": 1,
+            "tackles": 27,
+            "shots": 20,
+            "keyPasses": 18,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1690761600000,
+                "label": "31 July 2023"
+            },
+            "birth": {
+                "date": {
+                    "millis": 896572800000,
+                    "label": "31 May 1998"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                },
+                "place": "Derby"
+            },
+            "age": "26 years 255 days",
+            "name": {
+                "display": "Stephy Mavididi",
+                "first": "Stephy",
+                "last": "Mavididi"
+            },
+            "id": 14458
+        },
+        {
+            "playerId": 277554,
+            "info": {
+                "position": "F",
+                "shirtNum": 20,
+                "positionInfo": "Centre Striker"
+            },
+            "nationalTeam": {
+                "isoCode": "ZM",
+                "country": "Zambia",
+                "demonym": "Zambian"
+            },
+            "height": 183,
+            "weight": 71,
+            "latestPosition": "FORWARD",
+            "appearances": 12,
+            "goals": 1,
+            "assists": 0,
+            "tackles": 8,
+            "shots": 8,
+            "keyPasses": 0,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1625097600000,
+                "label": "1 July 2021"
+            },
+            "birth": {
+                "date": {
+                    "millis": 907891200000,
+                    "label": "9 October 1998"
+                },
+                "country": {
+                    "isoCode": "ZM",
+                    "country": "Zambia",
+                    "demonym": "Zambian"
+                },
+                "place": "Chingola"
+            },
+            "age": "26 years 124 days",
+            "name": {
+                "display": "Patson Daka",
+                "first": "Patson",
+                "last": "Daka"
+            },
+            "id": 24994
+        },
+        {
+            "playerId": 316040,
+            "info": {
+                "position": "G",
+                "shirtNum": 31,
+                "positionInfo": "Goalkeeper"
+            },
+            "nationalTeam": {
+                "isoCode": "DK",
+                "country": "Denmark"
+            },
+            "height": 193,
+            "weight": 80,
+            "latestPosition": "GOALKEEPER",
+            "appearances": 0,
+            "cleanSheets": 0,
+            "saves": 0,
+            "goalsConceded": 0,
+            "joinDate": {
+                "millis": 1563148800000,
+                "label": "15 July 2019"
+            },
+            "birth": {
+                "date": {
+                    "millis": 869270400000,
+                    "label": "19 July 1997"
+                },
+                "country": {
+                    "isoCode": "DK",
+                    "country": "Denmark"
+                }
+            },
+            "age": "27 years 206 days",
+            "name": {
+                "display": "Daniel Iversen",
+                "first": "Daniel",
+                "last": "Iversen"
+            },
+            "id": 15332
+        },
+        {
+            "playerId": 185886,
+            "info": {
+                "position": "D",
+                "shirtNum": 33,
+                "positionInfo": "Left Full Back"
+            },
+            "nationalTeam": {
+                "isoCode": "GB-ENG",
+                "country": "England",
+                "demonym": "English"
+            },
+            "height": 181,
+            "weight": 71,
+            "latestPosition": "DEFENDER",
+            "appearances": 2,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 5,
+            "shots": 1,
+            "keyPasses": 1,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1594771200000,
+                "label": "15 July 2020"
+            },
+            "birth": {
+                "date": {
+                    "millis": 992131200000,
+                    "label": "10 June 2001"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                },
+                "place": "Syston"
+            },
+            "age": "23 years 245 days",
+            "name": {
+                "display": "Luke Thomas",
+                "first": "Luke",
+                "last": "Thomas"
+            },
+            "id": 23796
+        },
+        {
+            "playerId": 277766,
+            "info": {
+                "position": "M",
+                "shirtNum": 24,
+                "positionInfo": "Centre Central Midfielder"
+            },
+            "nationalTeam": {
+                "isoCode": "FR",
+                "country": "France",
+                "demonym": "French"
+            },
+            "height": 188,
+            "weight": 70,
+            "latestPosition": "MIDFIELDER",
+            "appearances": 17,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 25,
+            "shots": 5,
+            "keyPasses": 7,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1625184000000,
+                "label": "2 July 2021"
+            },
+            "birth": {
+                "date": {
+                    "millis": 920073600000,
+                    "label": "27 February 1999"
+                },
+                "country": {
+                    "isoCode": "FR",
+                    "country": "France",
+                    "demonym": "French"
+                }
+            },
+            "age": "25 years 349 days",
+            "name": {
+                "display": "Boubakary Soumar\u00e9",
+                "first": "Boubakary",
+                "last": "Soumar\u00e9"
+            },
+            "id": 50247
+        },
+        {
+            "playerId": 360339,
+            "info": {
+                "position": "M",
+                "shirtNum": 34,
+                "positionInfo": "Centre Central Midfielder"
+            },
+            "nationalTeam": {
+                "isoCode": "GB-ENG",
+                "country": "England",
+                "demonym": "English"
+            },
+            "height": 178,
+            "weight": 73,
+            "latestPosition": "MIDFIELDER",
+            "appearances": 0,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 0,
+            "shots": 0,
+            "keyPasses": 0,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1720310400000,
+                "label": "7 July 2024"
+            },
+            "birth": {
+                "date": {
+                    "millis": 1148342400000,
+                    "label": "23 May 2006"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                },
+                "place": "Kingston"
+            },
+            "age": "18 years 263 days",
+            "name": {
+                "display": "Michael Golding",
+                "first": "Michael",
+                "middle": "Heinz",
+                "last": "Golding"
+            },
+            "id": 117859
+        },
+        {
+            "playerId": 360340,
+            "info": {
+                "position": "F",
+                "shirtNum": 14,
+                "positionInfo": "Forward"
+            },
+            "nationalTeam": {
+                "isoCode": "JM",
+                "country": "Jamaica",
+                "demonym": "Jamaican"
+            },
+            "height": 170,
+            "weight": 68,
+            "latestPosition": "FORWARD",
+            "appearances": 16,
+            "goals": 1,
+            "assists": 2,
+            "tackles": 5,
+            "shots": 5,
+            "keyPasses": 6,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1720137600000,
+                "label": "5 July 2024"
+            },
+            "birth": {
+                "date": {
+                    "millis": 728611200000,
+                    "label": "2 February 1993"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                },
+                "place": "Bristol"
+            },
+            "age": "32 years 8 days",
+            "name": {
+                "display": "Bobby De Cordova-Reid",
+                "first": "Bobby",
+                "last": "De Cordova-Reid"
+            },
+            "id": 8192
+        },
+        {
+            "playerId": 360637,
+            "info": {
+                "position": "D",
+                "shirtNum": 5,
+                "positionInfo": "Central Defender"
+            },
+            "nationalTeam": {
+                "isoCode": "IT",
+                "country": "Italy",
+                "demonym": "Italian"
+            },
+            "height": 191,
+            "weight": 91,
+            "latestPosition": "DEFENDER",
+            "appearances": 14,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 22,
+            "shots": 3,
+            "keyPasses": 0,
+            "cleanSheets": 1,
+            "joinDate": {
+                "millis": 1720483200000,
+                "label": "9 July 2024"
+            },
+            "birth": {
+                "date": {
+                    "millis": 994982400000,
+                    "label": "13 July 2001"
+                },
+                "country": {
+                    "isoCode": "IT",
+                    "country": "Italy",
+                    "demonym": "Italian"
+                },
+                "place": "Vicenza"
+            },
+            "age": "23 years 212 days",
+            "name": {
+                "display": "Caleb Okoli",
+                "first": "Caleb",
+                "last": "Okoli"
+            },
+            "id": 66011
+        },
+        {
+            "playerId": 360844,
+            "info": {
+                "position": "F",
+                "shirtNum": 7,
+                "positionInfo": "Right Winger"
+            },
+            "nationalTeam": {
+                "isoCode": "GH",
+                "country": "Ghana",
+                "demonym": "Ghanan"
+            },
+            "height": 177,
+            "weight": 73,
+            "latestPosition": "FORWARD",
+            "appearances": 11,
+            "goals": 0,
+            "assists": 2,
+            "tackles": 21,
+            "shots": 13,
+            "keyPasses": 6,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1721088000000,
+                "label": "16 July 2024"
+            },
+            "birth": {
+                "date": {
+                    "millis": 1078704000000,
+                    "label": "8 March 2004"
+                },
+                "country": {
+                    "isoCode": "GH",
+                    "country": "Ghana",
+                    "demonym": "Ghanan"
+                }
+            },
+            "age": "20 years 339 days",
+            "name": {
+                "display": "Abdul Fatawu",
+                "first": "Abdul",
+                "last": "Fatawu"
+            },
+            "id": 127644
+        },
+        {
+            "playerId": 362646,
+            "info": {
+                "position": "M",
+                "shirtNum": 40,
+                "positionInfo": "Centre Attacking Midfielder",
+                "loan": true
+            },
+            "nationalTeam": {
+                "isoCode": "AR",
+                "country": "Argentina"
+            },
+            "height": 174,
+            "weight": 66,
+            "latestPosition": "MIDFIELDER",
+            "appearances": 20,
+            "goals": 4,
+            "assists": 2,
+            "tackles": 42,
+            "shots": 24,
+            "keyPasses": 22,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1723248000000,
+                "label": "10 August 2024"
+            },
+            "birth": {
+                "date": {
+                    "millis": 1103760000000,
+                    "label": "23 December 2004"
+                },
+                "country": {
+                    "isoCode": "AR",
+                    "country": "Argentina"
+                },
+                "place": "Santa Fe"
+            },
+            "age": "20 years 49 days",
+            "name": {
+                "display": "Facundo Buonanotte",
+                "first": "Facundo",
+                "last": "Buonanotte"
+            },
+            "id": 133430
+        },
+        {
+            "playerId": 363134,
+            "info": {
+                "position": "M",
+                "shirtNum": 22,
+                "positionInfo": "Centre Central Midfielder"
+            },
+            "nationalTeam": {
+                "isoCode": "GB-ENG",
+                "country": "England",
+                "demonym": "English"
+            },
+            "height": 175,
+            "weight": 70,
+            "latestPosition": "MIDFIELDER",
+            "appearances": 15,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 14,
+            "shots": 3,
+            "keyPasses": 8,
+            "cleanSheets": 1,
+            "joinDate": {
+                "millis": 1724025600000,
+                "label": "19 August 2024"
+            },
+            "birth": {
+                "date": {
+                    "millis": 969062400000,
+                    "label": "16 September 2000"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                }
+            },
+            "age": "24 years 147 days",
+            "name": {
+                "display": "Oliver Skipp",
+                "first": "Oliver",
+                "middle": "William",
+                "last": "Skipp"
+            },
+            "id": 21413
+        },
+        {
+            "playerId": 363234,
+            "info": {
+                "position": "F",
+                "shirtNum": 18,
+                "positionInfo": "Striker"
+            },
+            "nationalTeam": {
+                "isoCode": "GH",
+                "country": "Ghana",
+                "demonym": "Ghanan"
+            },
+            "height": 182,
+            "weight": 80,
+            "latestPosition": "FORWARD",
+            "appearances": 21,
+            "goals": 4,
+            "assists": 0,
+            "tackles": 20,
+            "shots": 26,
+            "keyPasses": 11,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1724371200000,
+                "label": "23 August 2024"
+            },
+            "birth": {
+                "date": {
+                    "millis": 684547200000,
+                    "label": "11 September 1991"
+                },
+                "country": {
+                    "isoCode": "FR",
+                    "country": "France",
+                    "demonym": "French"
+                },
+                "place": "Marseille"
+            },
+            "age": "33 years 152 days",
+            "name": {
+                "display": "Jordan Ayew",
+                "first": "Jordan",
+                "last": "Ayew"
+            },
+            "id": 5595
+        },
+        {
+            "playerId": 363467,
+            "info": {
+                "position": "M",
+                "shirtNum": 11,
+                "positionInfo": "Centre Attacking Midfielder"
+            },
+            "nationalTeam": {
+                "isoCode": "MA",
+                "country": "Morocco",
+                "demonym": "Moroccan"
+            },
+            "height": 180,
+            "weight": 70,
+            "latestPosition": "MIDFIELDER",
+            "appearances": 19,
+            "goals": 2,
+            "assists": 1,
+            "tackles": 29,
+            "shots": 14,
+            "keyPasses": 17,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1724889600000,
+                "label": "29 August 2024"
+            },
+            "birth": {
+                "date": {
+                    "millis": 1084147200000,
+                    "label": "10 May 2004"
+                },
+                "country": {
+                    "isoCode": "BE",
+                    "country": "Belgium",
+                    "demonym": "Belgian"
+                },
+                "place": "Strombeek-Bever"
+            },
+            "age": "20 years 276 days",
+            "name": {
+                "display": "Bilal El Khannouss",
+                "first": "Bilal",
+                "last": "El Khannouss"
+            },
+            "id": 123333
+        },
+        {
+            "playerId": 363831,
+            "info": {
+                "position": "F",
+                "shirtNum": 29,
+                "positionInfo": "Centre Striker",
+                "loan": true
+            },
+            "nationalTeam": {
+                "isoCode": "FR",
+                "country": "France",
+                "demonym": "French"
+            },
+            "height": 187,
+            "weight": 83,
+            "latestPosition": "FORWARD",
+            "appearances": 4,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 1,
+            "shots": 0,
+            "keyPasses": 1,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1724976000000,
+                "label": "30 August 2024"
+            },
+            "birth": {
+                "date": {
+                    "millis": 884908800000,
+                    "label": "16 January 1998"
+                },
+                "country": {
+                    "isoCode": "GF",
+                    "country": "French Guiana"
+                }
+            },
+            "age": "27 years 25 days",
+            "name": {
+                "display": "Odsonne \u00c9douard",
+                "first": "Odsonne",
+                "last": "\u00c9douard"
+            },
+            "id": 16788
+        },
+        {
+            "playerId": 729191,
+            "info": {
+                "position": "M",
+                "shirtNum": 49,
+                "positionInfo": "Centre Central Midfielder"
+            },
+            "nationalTeam": {
+                "isoCode": "GB-ENG",
+                "country": "England",
+                "demonym": "English"
+            },
+            "height": 175,
+            "weight": 67,
+            "latestPosition": "MIDFIELDER",
+            "appearances": 0,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 0,
+            "shots": 0,
+            "keyPasses": 0,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1734048000000,
+                "label": "13 December 2024"
+            },
+            "birth": {
+                "date": {
+                    "millis": 1102723200000,
+                    "label": "11 December 2004"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                }
+            },
+            "age": "20 years 61 days",
+            "name": {
+                "display": "Henry Cartwright",
+                "first": "Henry",
+                "last": "Cartwright"
+            },
+            "id": 112706
+        },
+        {
+            "playerId": 731771,
+            "info": {
+                "position": "D",
+                "shirtNum": 25,
+                "positionInfo": "Right Full Back"
+            },
+            "nationalTeam": {
+                "isoCode": "FR",
+                "country": "France",
+                "demonym": "French"
+            },
+            "height": 188,
+            "weight": 77,
+            "latestPosition": "DEFENDER",
+            "appearances": 2,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 2,
+            "shots": 0,
+            "keyPasses": 0,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1736899200000,
+                "label": "15 January 2025"
+            },
+            "birth": {
+                "date": {
+                    "millis": 927676800000,
+                    "label": "26 May 1999"
+                },
+                "country": {
+                    "isoCode": "FR",
+                    "country": "France",
+                    "demonym": "French"
+                },
+                "place": "Gonesse"
+            },
+            "age": "25 years 260 days",
+            "name": {
+                "display": "Woyo Coulibaly",
+                "first": "Woyo",
+                "last": "Coulibaly"
+            },
+            "id": 75678
+        },
+        {
+            "playerId": 735602,
+            "info": {
+                "position": "M",
+                "positionInfo": "Midfielder"
+            },
+            "nationalTeam": {
+                "isoCode": "GB-ENG",
+                "country": "England",
+                "demonym": "English"
+            },
+            "latestPosition": "MIDFIELDER",
+            "appearances": 0,
+            "goals": 0,
+            "assists": 0,
+            "tackles": 0,
+            "shots": 0,
+            "keyPasses": 0,
+            "cleanSheets": 0,
+            "joinDate": {
+                "millis": 1738800000000,
+                "label": "6 February 2025"
+            },
+            "birth": {
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                }
+            },
+            "name": {
+                "display": "Jeremy Monga",
+                "first": "Jeremy",
+                "last": "Monga"
+            },
+            "id": 145759
+        }
+    ],
+    "officials": [
+        {
+            "officialId": 15585,
+            "role": "Assistant Manager",
+            "active": true,
+            "birth": {
+                "date": {
+                    "millis": 344995200000,
+                    "label": "7 December 1980"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                }
+            },
+            "age": "44 years 65 days",
+            "name": {
+                "display": "John Terry",
+                "first": "John",
+                "last": "Terry"
+            },
+            "id": 135742
+        },
+        {
+            "officialId": 27487,
+            "role": "Matchday Manager",
+            "active": true,
+            "birth": {
+                "date": {
+                    "millis": 399772800000,
+                    "label": "2 September 1982"
+                },
+                "country": {
+                    "isoCode": "GB-ENG",
+                    "country": "England",
+                    "demonym": "English"
+                },
+                "place": "Easington"
+            },
+            "age": "42 years 161 days",
+            "name": {
+                "display": "Alan Tate",
+                "first": "Alan",
+                "last": "Tate"
+            },
+            "id": 128864
+        },
+        {
+            "officialId": 33621,
+            "role": "Manager",
+            "active": true,
+            "birth": {
+                "date": {
+                    "millis": 205027200000,
+                    "label": "1 July 1976"
+                },
+                "country": {
+                    "isoCode": "NL",
+                    "country": "Netherlands",
+                    "demonym": "Dutch"
+                }
+            },
+            "age": "48 years 224 days",
+            "name": {
+                "display": "Ruud van Nistelrooij",
+                "first": "Ruud",
+                "last": "van Nistelrooij"
+            },
+            "id": 124564
+        },
+        {
+            "officialId": 34377,
+            "role": "Manager",
+            "active": true,
+            "birth": {
+                "date": {
+                    "millis": 205027200000,
+                    "label": "1 July 1976"
+                },
+                "country": {
+                    "isoCode": "NL",
+                    "country": "Netherlands",
+                    "demonym": "Dutch"
+                }
+            },
+            "age": "48 years 224 days",
+            "name": {
+                "display": "Ruud van Nistelrooij",
+                "first": "Ruud",
+                "last": "van Nistelrooij"
+            },
+            "id": 124564
+        }
+    ]
+}
